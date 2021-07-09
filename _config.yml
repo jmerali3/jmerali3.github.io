@@ -1,11 +1,11 @@
 ######################################
 ## Site settings                    ##
 ######################################
-title:       Junior Theme
-email:       jonathon.bel.melbourne@gmail.com
+title:       Jameel's Site
+email:       jameelmerali1992@gmail.com
 author:      Jonathon Belotti
 description: "A striking black-white Jekyll theme."
-baseurl:     ""
+baseurl:     "https://jmerali3.github.io/"
 url:         "https://juniortheme.live/"
 date_format: "%b %-d, %Y"
 
@@ -53,17 +53,17 @@ facebook_comments_number: 10
 ###################################
 ## Social icons                  ##
 ###################################
-github_username: thundergolfer
+github_username: jmerali3
 bitbucket_username:
 stackoverflow_id:
-twitter_username: jonobelotti_io
+twitter_username: 
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username: jonathonbelotti
+linkedin_username: jameel-merali
 angellist_username:
-medium_id: thundergolfer
-youtube_channel_id: UCSP7fMKwmaXaZhViAV2Vgvg
+medium_id: jameelmerali1992
+youtube_channel_id: 
 bitcoin_url:
 paypal_url:
 flattr_button:
@@ -73,13 +73,13 @@ flattr_button:
 ###################################
 show_sharing_icons: True
 # Change to 'true' to enable individual icons
-share_facebook: True
-share_twitter: True
-share_googleplus: True
-share_linkedin: false
+share_facebook: false
+share_twitter: false
+share_googleplus: false
+share_linkedin: true
 share_digg: false
 share_tumblr: false
-share_reddit: True
+share_reddit: false
 share_stumbleupon: false
 share_hackernews: True
 
