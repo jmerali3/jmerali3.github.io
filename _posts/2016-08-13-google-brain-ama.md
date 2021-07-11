@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Quick facts on the Google Brain AMA
-date:       2016-08-13
+title:      Atmoshperic CO2
+date:       2021-06-14
 summary:    A summarization of the awesome Google Brain AMA on r/machinelearning
-categories: machine-learning
+categories: time-series
 ---
 
 <style type="text/css">
