@@ -2,7 +2,7 @@
 layout:     post
 title:      Atmoshperic CO2
 date:       2021-06-14
-summary:    A summarization of the awesome Google Brain AMA on r/machinelearning
+summary:    A simple time-series regression analysis on the Mauna Loa Observatory atmospheric CO2 concentration dataset
 categories: time-series
 ---
 
