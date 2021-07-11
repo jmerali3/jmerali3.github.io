@@ -12,9 +12,6 @@ categories: machine-learning
   }
 </style>
 
-
-# Ocean Flow - A Gaussian Process Model
-
 The ocean is complicated, expansive, and powerful. It is also random and mysterious. This analysis tries to fit a model to this randomness using a machine learning technique called a Gaussian Process Model.
 
 <p align="center">
@@ -139,9 +136,9 @@ One method of hyperparameter selection is to perform a [K-Fold Cross-Validation]
 <p align="center">
 <img src="/images/Gaussian_Process/KFold_Ex.png" width="500" class="center">
 </p>
-<p align="center" " style="font-size:10px">
+<p align="center" style="font-size:10px">
 Source: Rebecca Patro - Towards Data Science
-</p>
+</p>                                    
 
 But wait, what exactly is the error function here - how do we gauge how well the model performs? Enter maximizing the log-likelihood - this metric tells us the [logarithm of the] likelihood of seeing the posterior function from each iteration of the cross-validation, given the known training data, the training covariance matrix, and the cross-covariance matrix between the training and [artificially] unseen data. It also takes into account both the model-fit and model-complexity. The implementation can be seen in the [get_log_likelihood](https://github.com/jmerali3/Ocean_Flow/blob/841ab6ee56a8293ac6b4aa72879ae368686fe1c4/OceanFlow_utils.py#L68) function.
 
