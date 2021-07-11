@@ -49,7 +49,7 @@ There's obviously a cyclic nature to CO2 concentration. This can be explained by
 
 The periodic residual is the monthly mean of the residuals from the quadratic regression. These are plotted below.
 
-![Cubic Regression](/iamges/CO2_Plots/Monthly_Periodic_Trend.png)
+![Periodic Regression](/images/CO2_Plots/Monthly_Periodic_Trend.png)
 
 #### Step 4 - The Final Model
 
