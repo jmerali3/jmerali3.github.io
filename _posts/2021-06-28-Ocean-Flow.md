@@ -12,9 +12,6 @@ categories: machine-learning
   }
 </style>
 
-
-# Ocean Flow - A Gaussian Process Model
-
 The ocean is complicated, expansive, and powerful. It is also random and mysterious. This analysis tries to fit a model to this randomness using a machine learning technique called a Gaussian Process Model.
 
 <p align="center">
