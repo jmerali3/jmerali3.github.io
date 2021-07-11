@@ -12,8 +12,6 @@ categories: time-series
   }
 </style>
 
-# Atmospheric CO2 Concentration
-### A Time-Series Exploration
 
 The New York Times noted that in May 2021, the amount of carbon dioxide in Earth's atmosphere hit the highest levels in human history, despite a temporary dip in CO2 emissions caused by COVID-19 shutdowns ([source](https://www.nytimes.com/2021/06/07/climate/climate-change-emissions.html?referringSource=articleShare)). In fact, the dip in emissions was too small to impact atmospheric CO2 concentration at all, according to the data recorded by the [NOAA](https://www.noaa.gov/) Observatory, which has been measuring Earth's atmospheric CO2 concentration atop Mauna Loa in Hawaii since 1958.
 
@@ -37,11 +35,11 @@ Create utility functions
 #### Step 2 - The Regression
 The implementation is simple with SKLearn - let's plot the linear, quadratic, and cubic regressions with their respective RMSEs.
 
-![Linear Regression](https://github.com/jmerali3/CO2_Analysis/blob/main/CO2_Plots/CO2_Linear_Regression.png)
+<img src=https://github.com/jmerali3/CO2_Analysis/blob/main/CO2_Plots/CO2_Linear_Regression.png alt="Linear Regression">
 
-![Quadratic Regression](https://github.com/jmerali3/CO2_Analysis/blob/main/CO2_Plots/CO2_Quadratic_Regression.png)
+<img src=https://github.com/jmerali3/CO2_Analysis/blob/main/CO2_Plots/CO2_Quadratic_Regression.png alt="Quadratic Regression">
 
-![Cubic Regression](https://github.com/jmerali3/CO2_Analysis/blob/main/CO2_Plots/CO2_Cubic_Regression.png)
+<img src=https://github.com/jmerali3/CO2_Analysis/blob/main/CO2_Plots/CO2_Cubic_Regression.png alt="Cubic Regression">
 
 It's clear that the lowest test error is with quadratic regression, but we are not capturing the cyclic nature of the data. We could also plot the residuals and observe that there is a trend, which indicates that the series is not yet stationary.
 
