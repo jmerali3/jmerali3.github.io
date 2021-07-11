@@ -35,11 +35,11 @@ Create utility functions
 #### Step 2 - The Regression
 The implementation is simple with SKLearn - let's plot the linear, quadratic, and cubic regressions with their respective RMSEs.
 
-<img src=https://github.com/jmerali3/CO2_Analysis/blob/main/CO2_Plots/CO2_Linear_Regression.png alt="Linear Regression">
+![Linear Regression](images/CO2_Plots/CO2_Linear_Regression.png)
 
-<img src=https://github.com/jmerali3/CO2_Analysis/blob/main/CO2_Plots/CO2_Quadratic_Regression.png alt="Quadratic Regression">
+![Quadratic Regression](images/CO2_Plots/CO2_Quadratic_Regression.png)
 
-<img src=https://github.com/jmerali3/CO2_Analysis/blob/main/CO2_Plots/CO2_Cubic_Regression.png alt="Cubic Regression">
+![Cubic Regression](images/CO2_Plots/CO2_Cubic_Regression.png)
 
 It's clear that the lowest test error is with quadratic regression, but we are not capturing the cyclic nature of the data. We could also plot the residuals and observe that there is a trend, which indicates that the series is not yet stationary.
 
@@ -49,7 +49,7 @@ There's obviously a cyclic nature to CO2 concentration. This can be explained by
 
 The periodic residual is the monthly mean of the residuals from the quadratic regression. These are plotted below.
 
-![Cubic Regression](https://github.com/jmerali3/CO2_Analysis/blob/main/CO2_Plots/Monthly_Periodic_Trend.png)
+![Cubic Regression](iamges/CO2_Plots/Monthly_Periodic_Trend.png)
 
 #### Step 4 - The Final Model
 
@@ -61,11 +61,11 @@ The final model incorporates the coefficients and y-intercept from the quadratic
                             quadratic_dict["intercept"] + \
                             co2_df["Periodic Residual"]
 ```
-![Final Regression](https://github.com/jmerali3/CO2_Analysis/blob/main/CO2_Plots/CO2_Periodic_&_Quadratic_Regression.png)
+![Final Regression](images/CO2_Plots/CO2_Periodic_&_Quadratic_Regression.png)
 
 Visualizing the residuals from before and after the cyclic trend were removed is another way of showing how removing the periodic residual helps the regressions
 
-![Residuals](https://github.com/jmerali3/CO2_Analysis/blob/main/CO2_Plots/Residuals.png)
+![Residuals](images/CO2_Plots/Residuals.png)
 
 The upward trend in the residual indicates that we are underpredicting CO2 closer to present-day. We can keep this in mind when extrapolating beyond present-day; this analysis definitely does __not__ represent the worst-case. In fact, we might actually get better predictions by performing the regression on _less_ data
 
@@ -104,7 +104,6 @@ Calculate the predicted atmospheric CO2 concentration based on the regression an
 
 #### Step 8 - Plot Data
 
-![Final Regression to 2050](https://github.com/jmerali3/CO2_Analysis/blob/main/CO2_Plots/Extrapolated_CO2_Concentration.png)
+![Final Regression to 2050](images/CO2_Plots/Extrapolated_CO2_Concentration.png)
 
 As you can see, we are well on our way to 500 ppm atmospheric CO2 concentration.
-
