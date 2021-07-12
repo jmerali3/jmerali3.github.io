@@ -11,8 +11,4 @@ Interested in Python, statistics & ML, economics, behavioral pshychology, clean 
 
 
 
-<img src="images/Jameel_Lottie.jpg" alt="Avatar" class="avatar">
-
-
-
 
