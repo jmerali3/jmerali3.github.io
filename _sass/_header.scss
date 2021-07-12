@@ -37,3 +37,27 @@
 .site-header .site-nav {
   text-align: center;
 }
+
+}
+
+.home-btn {
+    right: 0;
+}
+
+.home-btn > a {
+    position: relative;
+    z-index: 10000;
+}
+
+}
+
+.home-text { right: 22px; }
+.menu-text { left: 22px; }
+
+.menu-text {
+    -webkit-transition: all 0.75s ease;
+    -moz-transition: all 0.75s ease;
+    -o-transition: all 0.75s ease;
+    -ms-transition: all 0.75s ease;
+    transition: all 0.75s ease;
+} 
