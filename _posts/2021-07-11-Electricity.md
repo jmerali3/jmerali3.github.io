@@ -14266,7 +14266,7 @@ a.anchor-link {
 
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h1 id="USA-Electricity-Generating-Exploratory-Analysis">USA Electricity Generating Exploratory Analysis<a class="anchor-link" href="#USA-Electricity-Generating-Exploratory-Analysis">&#182;</a></h1><h5 id="This-project-is-not-yet-complete---but-so-far-I-am-pleased-with-Bokeh!-Sorry-for-the-weird-punctuation.-I-am-working-on-that.">This project is not yet complete - but so far I am pleased with Bokeh! Sorry for the weird punctuation. I am working on that.<a class="anchor-link" href="#This-project-is-not-yet-complete---but-so-far-I-am-pleased-with-Bokeh!-Sorry-for-the-weird-punctuation.-I-am-working-on-that.">&#182;</a></h5>
+<h1 id="USA-Electricity-Generating-Exploratory-Analysis">USA Electricity Generation - An Exploratory Analysis<a class="anchor-link" href="#USA-Electricity-Generating-Exploratory-Analysis">&#182;</a></h1><h5 id="This-project-is-not-yet-complete---but-so-far-I-am-pleased-with-Bokeh!-Sorry-for-the-weird-punctuation.-I-am-working-on-that.">This project is not yet complete - but so far I am pleased with Bokeh! Sorry for the weird formatting on () and []. I am working on that.<a class="anchor-link" href="#This-project-is-not-yet-complete---but-so-far-I-am-pleased-with-Bokeh!-Sorry-for-the-weird-punctuation.-I-am-working-on-that.">&#182;</a></h5>
 </div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
 <div class="jp-Cell-inputWrapper">
