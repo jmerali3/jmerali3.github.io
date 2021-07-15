@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post-wide
 hero-bg-color: "#AFFCC9"
 uid: live-more-herbivore
@@ -23,3 +23,4 @@ progress: 100
   <img style="width:50%" src="/images/portfolio/live-more-herbivore/3.png" alt="">
   <img style="width:50%" src="/images/portfolio/live-more-herbivore/4.png" alt="">
 </div>
+ -->

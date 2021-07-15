@@ -1,12 +1,10 @@
-######################################
-## Site settings                    ##
-######################################
-title:       Jameel's Site
+# Site settings
+title:       Jameel
 email:       jameelmerali1992@gmail.com
 author:      Jameel Merali
-description: "A striking black-white Jekyll theme."
+description: "ruminations & explorations and maybe some jokes too."
 baseurl:     ""
-url:         "https://juniortheme.live/"
+url:         "https://jameelmerali.com/"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -50,20 +48,18 @@ facebook_comments:
 facebook_appid:
 facebook_comments_number: 10
 
-###################################
-## Social icons                  ##
-###################################
+# Social icons
 github_username: jmerali3
 bitbucket_username:
 stackoverflow_id:
-twitter_username: 
+twitter_username:
 skype_username:
 steam_nickname:
 google_plus_id:
 linkedin_username: jameel-merali
 angellist_username:
 medium_id: jameelmerali1992
-youtube_channel_id: 
+youtube_channel_id:
 bitcoin_url:
 paypal_url:
 flattr_button:
