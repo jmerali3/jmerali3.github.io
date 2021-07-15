@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     
 title:      US Electricity Generation
 date:       2021-07-11
 summary:    Creating interactive visualizations with Bokeh
