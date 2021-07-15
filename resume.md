@@ -4,103 +4,74 @@ title: Resumé
 tags: resume
 permalink: /resume/
 ---
-# Jonathon Belotti
+# Jameel Merali
 
 <div id="webaddress">
-<a href="mailto:jonathon.bel.melbourne@gmail.com">jonathon.bel.melbourne@gmail.com</a>
+<a href="mailto:jameelmerali1992@gmail.com">jameelmerali1992@gmail.com</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/thundergolfer">thundergolfer</a>
-|
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/jonobelotti_IO">jonobelotti_IO</a>
+<i class="fa fa-github"></i> <a href="http://github.com/jmerali3r">jmerali3</a>
 </div>
 
 
 ## Experience
 
-`2017-`
-__Data Engineering Intern, Zendesk__ Work alongside the data science team on the machine learning driven Automatic Answers and Satisfaction Prediction products.
+`2019-2021`
+__Process Engineer, Chevron__
+* Spearheaded all troubleshooting and long-term optimization projects for a complex process valued at $1.5Bn per year.
+* Assembled a cross-functional team to innovate cost-effective resources that brought in $8M annually.
+* Identified and remedied a time-sensitive design flaw that would jeopardize a $2.2M per year project by overhauling equipment design and escalating timeline risks to management while securing additional project funding.
+* Mentored a high-performing team of junior engineers as they harnessed new digital resources for process optimization.
+* Investigated a persistent product quality issue and implemented a new technology solution to improve the process and reduce maintenance costs by $9M.
+* Led the process engineering team as it navigated a high-stakes, 12-week, $300M maintenance shutdown event and avoided losses of $1M daily by aligning the vision of stakeholders and making swift decisions under pressure.
 
-`2016`
-__Web Developer, RMIT Melbourne__ Integrated xAPI into existing RMIT web tools, and worked on changing student’s relationship with their learning data.
+`2016-2019`
+__Associate Process Engineer, Chevron__  
+* Applied an iterative approach to lead a two-year program across three business units to increase product yield by 0.8%; captured $4M/year of value by outlining key project risks, aligning stakeholders, and overseeing delivery.
+* Enhanced workgroup efficiency by facilitating the adoption of a new time-series analytics tool that enabled engineers
+to cleanse & analyze process data.
+* Directed a $2.5M/year project to overhaul the process using Waterfall project management techniques
 
-`2016`
-__Research Assistant, RMIT Melbourne__ Used Machine Learning and NLP libraries to predict language acquisition in second language learners.
+`2014-2016`
+__Junior Process Planning Engineer, Chevron__
+* Scaled and commercialized a new manufacturing technique that improved process safety and mitigated risk across
+global operations.
 
-__Tutor (Computer Science), Indigenous Tutorial Assistance Scheme__ Tutor students in algorithm design and analysis, database concepts, and software engineering fundamentals.
+
 
 ## Education
 
-`2015-`
-__Bachelor of Software Engineering, RMIT Melbourne__
+`2010-2015`
+__BS Chemical & Biomolecular Engineering__, Georgia Institute of Technology
 
-***GPA 3.9:***  100 - Web Programming, 97 - Soft. Eng. Fundamentals, 93 - Data Comm, 89 - Discrete Math
+* Minor - Economics
+* GPA 3.62 - _summa cum laude_
+* Study Abroad - Oxford University
 
-`2011-13`
-__Bachelor of Environments (Architecture), University of Melbourne__
+`2021-Current`
+__MicroMasters Statistics & Data Science__, Massachusetts Institute of Technology
+* [Machine Learning with Python - From Linear Models to Deep learning](https://courses.edx.org/certificates/60e3fbb8c62d460a80849639eef20f7a)
+* [Data Analysis: Statistical Modeling and Computation in Applications](https://courses.edx.org/certificates/89f0d4c62444430e81e0f1edc81f37ff)
 
-`2007-10`
-__Melbourne High School__ 95.80 / 100 ATAR
 
-## University Leadership & Involvement
 
-`2016-`
-__President, Computer Science & IT Society__ Rebranded the club, completed its website and have set up new student engagement initiatives.
+### Skills
 
-`2014-15`
-__Lead Investment & IT Officer, Foresight Investment__ With over $50,000 AUM the group generated annualised returns of greater than 11% while the ASX200 went down.
-
-`2016-`
-__Founder & Vice President - RMIT Programming Club__ Setup club’s communication channels.branding, and website. Created leadership group and now run meetings biweekly
-
-## Projects
-
-### Insults
-
-Uses Machine Learning to detect if online comments are insulting or derogatory. In the spirit of Google’s Perspective Project.
-
-### aimacode/aima-(java|python)
-Implemented the HITS (python and java) algorithm and CYK Parsing algorithm (java).
-
-### sudkamp-langs-machines=(java|python)
-
-Implementing computing theory algorithms from Sudkamp’s Languages and Machines textbook in Python and Java.
-
-__* Please see my Github profile for other projects and pull-request contributions.__
-
-## Awards
-
-MRC Capacity building scholarship (PhD fees + enhanced stipend)
-
-MRC Full postgraduate scholarship (MSc fees + stipend)
-
-ISCB computational biology Wikipedia competition 2013 ([doi:10.1371/journal.pcbi.1003242](http://dx.doi.org/10.1371/journal.pcbi.1003242); 2nd place)
-
-Imperial Create Lab's "Summer data challenge" ([summerdatachallenge.com](http://summerdatachallenge.com); 3rd place)
-
-Individual engagement grant from the Wikimedia Foundation to attend ISMB 2014
-
-Training accreditation for Wikimedia UK, the national chapter of the Wikimedia Foundation
-
-Front cover design selected for J. Comp. Chem. (34:22) ([doi:10.1002/jcc.23388](http://dx.doi.org/10.1002/jcc.23388))
-
-## Technical
-
-* **Python**
-* **Ruby**
-* **Java**
+###### Technical
+* Python
+* Data manipulation & ML: Pandas, NumPy, Scikit-Learn
+* Data visualization: Matplotlib, Seaborn, Bokeh
 * Git
-* Web Applications & APIs
-* Data Engineering
-* Algorithm Design
 * Scripting
+* Economic analysis
+* Process Engineering
+* Manufacturing & Operations
+* Process Optimization
+* Project Management
 
-
-## Links
-
-* <i class="fa fa-envelope"></i> <a href="mailto:jbelotti@zendesk.com">jbelotti@zendesk.com</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/thundergolfer">thundergolfer</a><br />
-*  <i class="fa fa-twitter"></i> <a href="http://twitter.com/jonobelotti_IO">jonobelotti_IO</a><br />
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+###### Interpersonal
+* Cross-functional leadership
+* Data-Driven Storytelling
+* Public Speaking
+* Client Service
+* Conflict Resolution
+* Mentorship
