@@ -32,7 +32,7 @@ body {
 	line-height: 1;
 }
 ol, ul {
-	list-style: none;
+	list-style: circle;
 }
 blockquote, q {
 	quotes: none;
@@ -62,7 +62,7 @@ p {
 	left: 25%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 65%;
+	width: 75%;
 }
 
 #resume code {
@@ -82,7 +82,7 @@ p {
 #resume ul {
 	position: relative;
 	left: 25%;
-	width: 65%;
+	width: 75%;
 	margin-bottom: 1.5em;
 	margin-top: 1em;
   columns: 1;
@@ -104,7 +104,7 @@ li ul {
 #resume h1, #resume h2, #resume h3, #resume h4 {
 	font-weight: 400;
 	/*font-family: Cousine,Verdana,sans-serif;*/
-	width: 65%;
+	width: 75%;
 }
 
 h1 {
