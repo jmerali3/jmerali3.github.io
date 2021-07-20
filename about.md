@@ -20,4 +20,7 @@ _Currently learning:_ SQL, R (and Tidyverse), Bokeh, Javascript, and Jekyll <br>
 _On my nightstand_ - Noise by Daniel Kahneman, Olivier Sibony, & Cass Sunstein <br>
 _In my ears_ - Greentech Media podcasts and Freakonomics Radio <br>
 _Casted to my TV_ - Friends <br>
-_Latest Oven Bake_ - Cherry pie
+_Latest Oven Bake_ - Cherry pie <br>
+
+Credits <br>
+This website was created using [Jekyll](https://jekyllrb.com/) and is hosted by Github Pages. The wonderful template was created by [Jonathon Belotti](https://github.com/thundergolfer/).
