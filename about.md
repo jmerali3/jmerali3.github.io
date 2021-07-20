@@ -23,4 +23,4 @@ _Casted to my TV_ - Friends <br>
 _Latest Oven Bake_ - Cherry pie <br>
 
 Credits <br>
-This website was created using [Jekyll](https://jekyllrb.com/) and is hosted by Github Pages. The wonderful template was created by [Jonathon Belotti](https://github.com/thundergolfer/).
+This website was created using [Jekyll](https://jekyllrb.com/) and is hosted by Github Pages. The template is based on the Junior theme created by [Jonathon Belotti](https://github.com/thundergolfer/).
