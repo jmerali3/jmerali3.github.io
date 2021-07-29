@@ -21,7 +21,7 @@ bing_verification:
 ######################################
 animated:             false
 show_related_posts:   false
-show_post_footers:    True
+show_post_footers:    false
 show_social_icons:    True
 ajaxify_contact_form: false
 enable_mathjax: false
@@ -31,14 +31,14 @@ enable_anchorjs: false
 ######################################
 ## Optional site sections           ##
 ######################################
-show_talks_section:     true
-show_workshops_section: true
+show_talks_section:     false
+show_workshops_section: false
 
 ######################################
 ## Disqus post comments             ##
 ## (leave blank to disable Disqus)  ##
 ######################################
-disqus_shortname: 'juniortheme-live'
+disqus_shortname:
 
 ##########################################################################
 ## Facebook Comments plugin                                             ##
@@ -46,7 +46,7 @@ disqus_shortname: 'juniortheme-live'
 ##########################################################################
 facebook_comments:
 facebook_appid:
-facebook_comments_number: 10
+facebook_comments_number:
 
 # Social icons
 github_username: jmerali3
@@ -67,17 +67,17 @@ flattr_button:
 ###################################
 ## Post sharing icons            ##
 ###################################
-show_sharing_icons: True
+show_sharing_icons: false
 # Change to 'true' to enable individual icons
 share_facebook: false
 share_twitter: false
 share_googleplus: false
-share_linkedin: true
+share_linkedin: false
 share_digg: false
 share_tumblr: false
 share_reddit: false
 share_stumbleupon: false
-share_hackernews: True
+share_hackernews: false
 
 text:
   pagination:
