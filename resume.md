@@ -1,3 +1,5 @@
+<!--
+Commenting out resume for now. Don't really see a need for it but dont want to delete
 ---
 layout: cv
 title: Resumé
@@ -11,7 +13,6 @@ permalink: /resume/
 |
 <i class="fa fa-github"></i> <a href="http://github.com/jmerali3r">jmerali3</a>
 </div>
-
 
 ## Experience
 
@@ -36,6 +37,10 @@ __Junior Process Planning Engineer, Chevron__
 * Scaled and commercialized a new manufacturing technique that improved process safety and mitigated risk across
 global operations.
 
+`2012-2014`
+__Improvement Engineer, Dow Chemical__
+* Led small projects to save utility costs at sites in Texas and California.
+
 
 
 ## Education
@@ -47,16 +52,14 @@ __BS Chemical & Biomolecular Engineering__, Georgia Institute of Technology
 * GPA 3.62 - _summa cum laude_
 * Study Abroad - Oxford University
 
-`2021-Current`
+`2021`
 __MicroMasters Statistics & Data Science__, Massachusetts Institute of Technology
 * [Machine Learning with Python - From Linear Models to Deep learning](https://courses.edx.org/certificates/60e3fbb8c62d460a80849639eef20f7a)
 * [Data Analysis: Statistical Modeling and Computation in Applications](https://courses.edx.org/certificates/89f0d4c62444430e81e0f1edc81f37ff)
 
 
 
-### Skills
-
-###### Technical
+## Technical
 * Python
 * Data manipulation & ML: Pandas, NumPy, Scikit-Learn
 * Data visualization: Matplotlib, Seaborn, Bokeh
@@ -68,10 +71,11 @@ __MicroMasters Statistics & Data Science__, Massachusetts Institute of Technolog
 * Process Optimization
 * Project Management
 
-###### Interpersonal
+## Interpersonal
 * Cross-functional leadership
 * Data-Driven Storytelling
 * Public Speaking
 * Client Service
 * Conflict Resolution
 * Mentorship
+-->
