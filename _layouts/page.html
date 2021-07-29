@@ -9,3 +9,9 @@ layout: default
   {{ content }}
   </article>
 </div>
+
+{% if page.flicker %}
+<script type="text/javascript">
+  {% include js/flicker.js %}
+</script>
+{% endif %}

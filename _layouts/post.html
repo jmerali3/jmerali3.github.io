@@ -7,6 +7,32 @@ layout: default
 {% assign minutes = 1 %}
 {% endif %}
 
+<style>
+p a
+{
+  color: black !important;
+  text-decoration: none;
+  border-bottom: .0625em solid #dcf3ff;
+  box-shadow: 0 -.4em 0 #dcf3ff inset;
+}
+
+p a:hover, p a:active, p a:focus {
+  border-color: #aedbf9;
+  box-shadow: 0 -.75em 0 #aedbf9 inset;
+}
+
+p .reversefootnote {
+  border: none;
+  box-shadow: none;
+}
+
+p .reversefootnote:hover, p .reversefootnote:active, p .reversefootnote:focus {
+  border-color: none;
+  box-shadow: none;
+}
+
+</style>
+
 <div class="post-header mb2">
   <h1>{{ page.title }}</h1>
   <span class="post-meta">{{ page.date | date: site.date_format }}</span><br>
@@ -34,12 +60,12 @@ layout: default
   {% include post_footer.html %}
 {% endif %}
 
-{% if site.disqus_shortname %}
+{% if site.disqus_shortname != "" and site.disqus_shortname != nil %}
   <div id="disqus_thread"></div>
   <script type="text/javascript">
     var disqus_shortname  = '{{ site.disqus_shortname }}';
-    var disqus_identifier = '{{ page.id }}';
-    var disqus_title      = '{{ page.title }}';
+    var disqus_identifier = "{{ page.id }}";
+    var disqus_title      = "{{ page.title }}"; 
 
     (function() {
       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;

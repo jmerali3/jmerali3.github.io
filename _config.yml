@@ -16,7 +16,9 @@ google_tag_manager:
 # Bing services
 bing_verification:
 
-# Optional features
+######################################
+## Optional features                ##
+######################################
 animated:             false
 show_related_posts:   false
 show_post_footers:    True
@@ -26,12 +28,22 @@ enable_mathjax: false
 extended_fonts: false
 enable_anchorjs: false
 
-# Disqus post comments
-# (leave blank to disable Disqus)
-disqus_shortname: ''
+######################################
+## Optional site sections           ##
+######################################
+show_talks_section:     true
+show_workshops_section: true
 
-# Facebook Comments plugin
-# (leave blank to disable Facebook Comments, otherwise set it to true)
+######################################
+## Disqus post comments             ##
+## (leave blank to disable Disqus)  ##
+######################################
+disqus_shortname: 'juniortheme-live'
+
+##########################################################################
+## Facebook Comments plugin                                             ##
+## (leave blank to disable Facebook Comments, otherwise set it to true) ##
+##########################################################################
 facebook_comments:
 facebook_appid:
 facebook_comments_number: 10
@@ -40,20 +52,22 @@ facebook_comments_number: 10
 github_username: jmerali3
 bitbucket_username:
 stackoverflow_id:
-twitter_username: 
+twitter_username:
 skype_username:
 steam_nickname:
 google_plus_id:
 linkedin_username: jameel-merali
 angellist_username:
 medium_id: jameelmerali1992
-youtube_channel_id: 
+youtube_channel_id:
 bitcoin_url:
 paypal_url:
 flattr_button:
 
-# Post sharing icons
-show_sharing_icons: False # Looks Ugly atm
+###################################
+## Post sharing icons            ##
+###################################
+show_sharing_icons: True
 # Change to 'true' to enable individual icons
 share_facebook: false
 share_twitter: false
@@ -63,7 +77,7 @@ share_digg: false
 share_tumblr: false
 share_reddit: false
 share_stumbleupon: false
-share_hackernews: false
+share_hackernews: True
 
 text:
   pagination:
@@ -98,7 +112,9 @@ text:
   thanks: 'Thanks for contacting us. We will reply as soon as possible.'
   og_locale: 'en_US'
 
-# Build settings
+############################################
+## Build settings                         ##
+############################################
 markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data', 'footnotes']
@@ -106,13 +122,15 @@ permalink:    pretty
 paginate:     4
 sass:
   compressed: true
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
 # https://github.com/jekyll/jekyll/issues/2938
 exclude: [vendor]
 
-# Collections (for design section of site)
+#################################################
+## Collections (for 'Design' section of site)  ##
+#################################################
 collections:
   portfolio:
     output: true

@@ -1,3 +1,6 @@
+---
+layout: compress
+---
 <!doctype html>
 <!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
 <!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
@@ -15,8 +18,6 @@
 
   <!-- <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville' rel='stylesheet' type='text/css'> -->
   <!-- <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,800' rel='stylesheet' type='text/css'> -->
-
-  <link rel="stylesheet" href="/all.css">
 
   <script src="/js/modernizr-2.0.6.min.js"></script>
 </head>
@@ -36,7 +37,7 @@
   </div> <!--! end of #container -->
 
   <script src="/js/jquery-1.10.2.min.js"></script>
-  <script defer src="/all.js"></script>
+  <script defer src="/js/all.js"></script>
   <script>
     window._gaq = [['_setAccount','{{ site.analytics }}'],['_trackPageview'],['_trackPageLoadTime']];
     Modernizr.load({
@@ -51,3 +52,9 @@
   {% include footer.html %}
 </body>
 </html>
+
+<style>
+#main-menu {
+  position: absolute;
+}
+</style>

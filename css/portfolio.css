@@ -22,6 +22,7 @@ audio:not([controls]) {
 }
 
 html {
+  z-index: -10;
   font-size: 100%;
   overflow-y: scroll;
   -webkit-text-size-adjust: 100%;
@@ -49,6 +50,10 @@ body, button, input, select, textarea {
   background: #fe57a1;
   color: #fff;
   text-shadow: none;
+}
+
+#main ul {
+  padding-left: 0;
 }
 
 a {
@@ -376,13 +381,13 @@ td {
   */
 
   .github-icon{
-    background-image:url(img/github-icon.png);
+    background-image:url("/images/github-icon.png");
     background-size:30px 30px;
     height:30px;
     width:30px;
   }
   .github-icon.light{
-    background-image:url(img/github-icon-white.png);
+    background-image:url("/images/github-icon-white.png");
   }
 
   .project .progress{
@@ -397,7 +402,7 @@ td {
   }
 
   .project .progress .under-construction{
-    background-image:url(img/under-construction.png);
+    background-image:url("/images/under-construction.png");
     width:26px;
     height:26px;
     background-size:26px 26px;
@@ -431,19 +436,29 @@ td {
 
   .projects {
     position: relative;
-    z-index: -1;
     margin: 0 15px ;
     padding-bottom: 5%;
+    text-align: center;
   }
 
   .projects li {
+    width: 20vw;
+    height: 20vw;
+    padding: 2%;
     display: inline-block;
     list-style: none;
-    width: 33.3333%;
-    float: left;
   }
 
   .projects li .project {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
     margin: 30px 15px 0 15px;
     background-color: #ccc;
     -webkit-transition: all 200ms linear;
@@ -477,7 +492,7 @@ td {
 
   .projects .cover:hover {
     opacity: 1;
-    color:#333;
+    color:#111;
   }
 
   .projects .cover .project-details{
@@ -528,20 +543,20 @@ td {
 
   .next-project{
     left: 30px;
-    background-image: url(img/chevron-left-black.png);
+    background-image: url("/images/chevron-left-black.png");
   }
 
   .prev-project{
-    background-image: url(img/chevron-right-black.png);
+    background-image: url("/images/chevron-right-black.png");
     right: 30px;
   }
 
   .next-project.background--dark{
-    background-image: url(img/chevron-left-white.png);
+    background-image: url("/images/chevron-left-white.png");
   }
 
   .prev-project.background--dark{
-    background-image: url(img/chevron-right-white.png);
+    background-image: url("/images/chevron-right-white.png");
   }
 
   .underlined-link{
@@ -631,7 +646,7 @@ td {
   }
 
   .post .showcase iframe,
-  .post .showcase img{
+  .post .showcase img {
     margin-bottom: 100px;
     max-width: 100%;
   }
@@ -667,7 +682,6 @@ td {
     height:350px;
     background-position: center center;
     background-repeat: no-repeat;
-    z-index: -1;
     position: relative;
   }
 
@@ -757,7 +771,8 @@ td {
     }
 
     .projects li {
-      width: 50%;
+      width: 60vw;
+      height: 60vw;
     }
 
     /*#container {
@@ -765,7 +780,7 @@ td {
     }*/
 
     .projects li .project {
-      margin: 15px 7.5px 0 7.5px;
+      margin: 15px 7.5px 0 0px;
     }
 
     header .inner{
@@ -846,24 +861,20 @@ td {
   }
 
   @media only screen and (max-width: 480px) {
-
-    header nav {
-      display: none;
-    }
-
     header nav.mobile-nav {
       display: block;
     }
 
     .projects li {
-      width: 100%;
+      width: 60vw;
+      height: 60vw;
     }
   }
 
   @media only screen and (min-width: 1900px) {
-    .projects li {
+    /*.projects li {
       width: 25%;
-    };
+    };*/
   }
 
 
