@@ -8,6 +8,13 @@
 
 dt {
   margin-bottom: 5%;
+  border: solid 1px #999;
+  border-radius: 5px;
+  padding: 2%;
+}
+
+dt p {
+	font-weight: 100;
 }
 
 @media screen and (min-width: 770px) {
