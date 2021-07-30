@@ -12,7 +12,7 @@ Thank you for visiting my site. I love to experiment whether that's personally o
 
 
 🏭<br>
-I spent six years as a Process Engineer at Chevron at their Richmond Refinery where I supported various process units like a wastewater bioreactor, cogen gas turbines, diesel and gasoline [hydrotreaters](https://en.wikipedia.org/wiki/Hydrodesulfurization), and most recently, the [fluidized catalytic cracker](https://en.wikipedia.org/wiki/Fluid_catalytic_cracking), where we produced up to 80,000 barrels (or 3.3 million gallons) per day of fuel for the Bay Area. That's a lot of ⛽! I excel at driving process improvements and communicating effectively with people from different backgrounds. <br>
+I spent six years as a Process Engineer at Chevron at their Richmond Refinery where I supported various process units like a wastewater bioreactor, cogen gas turbines, diesel and gasoline [hydrotreaters](https://en.wikipedia.org/wiki/Hydrodesulfurization), and most recently, the [fluidized catalytic cracker](https://en.wikipedia.org/wiki/Fluid_catalytic_cracking), where we produced up to 80,000 barrels (or 3.3 million gallons) per day of fuel for the Bay Area. That's a lot of ⛽!
 
 💻  📘  🥧 <br>
 _Interests:_ Python, statistics & ML, business & economics, clean energy, & behavioral psychology <br>
