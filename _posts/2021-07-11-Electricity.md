@@ -1,5 +1,5 @@
 ---
-layout:
+layout:     ipynb
 title:      US Electricity Generation
 date:       2021-07-29
 summary:    Creating interactive visualizations with Bokeh
@@ -63,7 +63,7 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 .highlight .s1 { color: var(--jp-mirror-editor-string-color) } /* Literal.String.Single */
 .highlight .ss { color: var(--jp-mirror-editor-string-color) } /* Literal.String.Symbol */
 .highlight .il { color: var(--jp-mirror-editor-number-color) } /* Literal.Number.Integer.Long */
-  </style>
+</style>
 
 
 
