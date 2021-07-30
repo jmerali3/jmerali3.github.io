@@ -14784,7 +14784,7 @@ Notice rows 2-9. Looks like a repeat right (especially 5 and 6)? There are numer
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <p>It's no surprise that the 9/10 of the largest generators are nuclear plants.</p>
-<p><img src="images/Grand_Coulee_Dam.jpg" width="340" alt="Grand Coulee Dam" align="left"><br clear="left"></p>
+<p><img src="/images/Grand_Coulee_Dam.jpg" width="340" alt="Grand Coulee Dam" align="left"><br clear="left"></p>
 <p>The hydroelectric plant in Washington is the Grand Coulee Dam (image source: Wikipedia)</p>
 
 </div>
