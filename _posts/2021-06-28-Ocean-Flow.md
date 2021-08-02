@@ -108,7 +108,7 @@ Let's look at the same posterior model using the same hyperparameters as before.
 </p>
 
 A definite improvement!
-</p>
+<p>
 However, these are actually pretty terrible models. The first is definitely overfitting the data and would be quite inflexible, and the second one is much too noisy. We need to optimize the hyperparameters to get a best-fit model, but first we need to look more closely at how they impact the covariance matrix.
 </p>
 
@@ -118,7 +118,7 @@ The covariance matrix is the multivariate extension to the variance specified in
 
 The kernel function will input an Nx1 matrix and return a symmetric, semi-definite NxN matrix and with each *(i, j)* entry equal to the covariance between points *(i, j)*. For cross-covariance, the input is an Nx1 and Mx1 matrix that returns a triangular NxM covariance matrix.
 
-In this particular model, I chose to use a [radial basis function kernel](https://github.com/jmerali3/Ocean_Flow/blob/841ab6ee56a8293ac6b4aa72879ae368686fe1c4/OceanFlow_utils.py#L86), which has two hyperparameters. The l<sup>2</sup> or length scale term indicates how fast the covariance decays as a function of the squared distance between the points, and σ<sup>2</sup> determines the variance at the diagonals. This is visualized below in the grid of heatmaps, which shows a N=10 kernel with varying hyperparameters.
+In this particular model, I chose to use a [radial basis function kernel](https://github.com/jmerali3/Ocean_Flow/blob/841ab6ee56a8293ac6b4aa72879ae368686fe1c4/OceanFlow_utils.py#L86), which has two hyperparameters. The l<sup>2</sup>, or length scale term, indicates how fast the covariance decays as a function of the squared distance between the points, and σ<sup>2</sup> determines the variance at the diagonals. This is visualized below in the grid of heatmaps, which shows a N=10 kernel with varying hyperparameters.
 
 <p align="center">
 <img src="/images/Gaussian_Process/Kernel_Heatmap.png" width="500">"
