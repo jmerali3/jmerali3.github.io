@@ -1,0 +1,27 @@
+---
+layout:     post
+title:      OMSCS
+date:       2022-07-27
+summary:    Ongoing Thoughts on Georgia Tech's Online Masters in Computer Science
+categories: learning
+---
+
+<style type="text/css">
+  .post>.measure {
+    max-width: 50rem;
+  }
+</style>
+
+_Spring 2022 Knowledge-Based Artificial Intelligence (KBAI)_<br>
+
+Perhaps the best class I could have possibly started with; it was well-organized, engaging, and just the right difficulty. This class requires introspection into human cognition - How do we solve problems and learn? I am not sure I ever considered that before this class. Can we map the way we solve problems onto a machine? Turns out, yes. Sort of. Knowledge representation is extremely complicated in the human brain, and making these connections explicit in computer code is no small task. Sometimes it feels like that AI really is...is a bunch of IF statements!
+
+![AI_Ifs](/images/AI IFs.jpg)
+
+
+
+
+
+_Summer 2022 Machine Learning for Trading (ML4T)_<br>
+
+
