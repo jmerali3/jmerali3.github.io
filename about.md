@@ -12,7 +12,7 @@ Thank you for visiting my site. I love to experiment whether that's personally o
 
 
 🏭<br>
-I spent six years as a Process Engineer at Chevron at their Richmond Refinery where I supported various process units like a wastewater bioreactor, cogen gas turbines, diesel and gasoline [hydrotreaters](https://en.wikipedia.org/wiki/Hydrodesulfurization), and most recently, the [fluidized catalytic cracker](https://en.wikipedia.org/wiki/Fluid_catalytic_cracking), where we produced up to 80,000 barrels (or 3.3 million gallons) per day of fuel for the Bay Area. The operations and hands-on manufacturing experience I gained during this time are invaluable. Spending time working with physical equipment, real-time production, and a diverse workforce is something I will appreicate for the rest of my career.
+I spent six years as a Process Engineer at Chevron at their Richmond Refinery where I supported various process units like a wastewater bioreactor, cogen gas turbines, diesel and gasoline <a href="https://en.wikipedia.org/wiki/Hydrodesulfurization" target="_blank">hydrotreaters</a>, and the <a href="https://en.wikipedia.org/wiki/Fluid_catalytic_cracking" target="_blank">fluidized catalytic cracter</a>. The operations and hands-on manufacturing experience I gained during this time are invaluable. Spending time working with physical equipment, real-time production, and a diverse workforce is something I will appreicate for the rest of my career.
 
 I now work at ENGIE Impact as a Sustainability Consultant, specializing in Net Zero Manufacturing. I help clients worldwide reach their carbon goals through energy efficiency and smart capital investments. 
 
