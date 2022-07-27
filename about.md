@@ -21,7 +21,7 @@ What interests me most is how digital technologies can help us optimally transit
 💻  📘  🥧 <br>
 _Interests:_ statistics & ML, economics, clean energy, & behavioral psychology <br>
 _Currently learning:_ Data Structures & Algorithms, ML for Trading, Knowledge-Based AI, Plotly, D3  <br>
-_On my nightstand_ - The Lincoln Highway by Amor Towles [Let's connect on GoodReads!](https://www.goodreads.com/user/show/79648127-jameel) <br>
+_On my nightstand_ - The Lincoln Highway by Amor Towles <a href="https://www.goodreads.com/user/show/79648127-jameel" target="_blank">Let's connect on GoodReads!</a><br>
 _In my ears_ -  Freakonomics Radio and American History Tellers <br>
 _Casted to my TV_ - Call My Agent! <br>
 _Latest Oven Bake_ - Cherry pie <br>
