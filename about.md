@@ -12,14 +12,18 @@ Thank you for visiting my site. I love to experiment whether that's personally o
 
 
 🏭<br>
-I spent six years as a Process Engineer at Chevron at their Richmond Refinery where I supported various process units like a wastewater bioreactor, cogen gas turbines, diesel and gasoline [hydrotreaters](https://en.wikipedia.org/wiki/Hydrodesulfurization), and most recently, the [fluidized catalytic cracker](https://en.wikipedia.org/wiki/Fluid_catalytic_cracking), where we produced up to 80,000 barrels (or 3.3 million gallons) per day of fuel for the Bay Area. That's a lot of ⛽!
+I spent six years as a Process Engineer at Chevron at their Richmond Refinery where I supported various process units like a wastewater bioreactor, cogen gas turbines, diesel and gasoline [hydrotreaters](https://en.wikipedia.org/wiki/Hydrodesulfurization), and most recently, the [fluidized catalytic cracker](https://en.wikipedia.org/wiki/Fluid_catalytic_cracking), where we produced up to 80,000 barrels (or 3.3 million gallons) per day of fuel for the Bay Area. The operations and hands-on manufacturing experience I gained during this time are invaluable. Spending time working with physical equipment, real-time production, and a diverse workforce is something I will appreicate for the rest of my career.
+
+I now work at ENGIE Impact as a Sustainability Consultant, specializing in Net Zero Manufacturing. I help clients worldwide reach their carbon goals through energy efficiency and smart capital investments. 
+
+What interests me most is how digital technologies can help us optimally transition to a decarbonized future. My experience is a unique blend of manufacturing, process engineering, computer science, and sustainability.
 
 💻  📘  🥧 <br>
-_Interests:_ Python, statistics & ML, business & economics, clean energy, & behavioral psychology <br>
-_Currently learning:_ SQL, R (and Tidyverse), Bokeh, Javascript, and Jekyll <br>
-_On my nightstand_ - Noise by Daniel Kahneman, Olivier Sibony, & Cass Sunstein <br>
-_In my ears_ - Greentech Media podcasts and Freakonomics Radio <br>
-_Casted to my TV_ - Friends <br>
+_Interests:_ statistics & ML, economics, clean energy, & behavioral psychology <br>
+_Currently learning:_ Data Structures & Algorithms, ML for Trading, Knowledge-Based AI, Plotly, D3  <br>
+_On my nightstand_ - The Lincoln Highway by Amor Towles [Let's connect on GoodReads!](https://www.goodreads.com/user/show/79648127-jameel) <br>
+_In my ears_ -  Freakonomics Radio and American History Tellers <br>
+_Casted to my TV_ - Call My Agent! <br>
 _Latest Oven Bake_ - Cherry pie <br>
 
 Credits <br>
